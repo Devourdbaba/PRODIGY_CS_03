@@ -8,9 +8,9 @@ How to use:
 
 Clone the repository from GitHub: git clone https://github.com/Devourdbaba/PRODIGY_CS_03.git
 
-Change into the newly created directory:cd password_checker
+Change into the newly created directory: cd password_checker
 
-Execute the Python script:python3 password_checker.py
+Execute the Python script: python3 password_checker.py
 
 input :input the password 
 
