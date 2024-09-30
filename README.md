@@ -1,14 +1,12 @@
 PMXchecker
 
- This is a Python-based tool provides a comprehensive assessment of password strength. It evaluates passwords based on various criteria, including length, character diversity, and complexity. The tool offers clear 
- 
- and informative feedback to help users understand the weaknesses in their passwords and improve their security practices.
+ This is a Python-based tool provides a comprehensive assessment of password strength. It evaluates passwords based on various criteria, including length, character diversity, and complexity. The tool offers clear and informative feedback to help users understand the weaknesses in their passwords and improve their security practices.
 
 
 How to use:
 
 
-Clone the repository from GitHub: git clone https://github.com/your_username/password_checker.git
+Clone the repository from GitHub: git clone https://github.com/Devourdbaba/PRODIGY_CS_03.git
 
 Change into the newly created directory:cd password_checker
 
