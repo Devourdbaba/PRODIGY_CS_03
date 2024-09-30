@@ -1,4 +1,4 @@
-Password checker
+PMXchecker
 
  This is a Python-based tool provides a comprehensive assessment of password strength. It evaluates passwords based on various criteria, including length, character diversity, and complexity. The tool offers clear 
  
